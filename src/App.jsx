@@ -44,6 +44,15 @@ function App() {
       region: "Alaska",
       selectorsChoice: true,
     },
+    {
+      name: "Arabian horse",
+      latinName: "Enhydra lutris",
+      img: "./animals/ArabianHourse.jpg",
+      description:
+        "Arabian horse, earliest improved breed of horse, valued for its speed, stamina, beauty, intelligence, and gentleness. The breed’s long history has been obscured by legend, but it had been developed in Arabia by the 7th century CE. The Arabian horse has contributed its qualities to most of the modern breeds of light horses..",
+      region: "Arabian Peninsula",
+      selectorsChoice: true,
+    }
   ];
 
   return (
